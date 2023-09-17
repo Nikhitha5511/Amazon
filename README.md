@@ -262,3 +262,6 @@ transform: scale(1.1);: It scales up the size of "shop-link" elements by 10% whe
 * text-decoration: underline;: It underlines the text of anchor elements when hovered over, providing a visual indication that they are links.
 * footer: This selector targets the footer element.
 display: block;: It sets the display of the footer element to "block," which is the default display value for block-level elements. This line might not be necessary as the default display for footer elements is already "block."
+
+# Hosted Link
+https://nikhitha5511.github.io/Amazon/?authuser=0
